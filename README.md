@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**ArchismitaChakraborty/ArchismitaChakraborty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📊 Excel Dashboard Projects
 
-Here are some ideas to get you started:
+This repository contains a collection of Excel dashboards created for data analysis and visualization. Each dashboard focuses on a specific domain and uses Excel features like charts, pivot tables, slicers, and KPIs to deliver insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📁 Projects Included
+
+### 1. **Ecommerce Sales Dashboard**
+- **Goal**: Analyze ecommerce sales performance over time
+- **Features**: Monthly trends, top products, sales by region, interactive filters
+- **File**: `E-Commerce Dashboard - AC.xlsx`
+
+
+---
+
+## 🛠 Tools & Skills Used
+- Microsoft Excel
+- Pivot Tables
+- Slicers and Filters
+- Data Cleaning
+- Charts and Graphs (Line, Bar, Pie)
+- Conditional Formatting
+
+---
+
+## 💡 About
+These projects were built to practice and showcase Excel skills for business and data analysis. More dashboards will be added over time.
+
