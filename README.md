@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 📊 Excel Dashboard Projects
+# 📊 Excel Projects
 
 This repository contains a collection of Excel dashboards created for data analysis and visualization. Each dashboard focuses on a specific domain and uses Excel features like charts, pivot tables, slicers, and KPIs to deliver insights.
 
@@ -13,6 +13,11 @@ This repository contains a collection of Excel dashboards created for data analy
 - **Features**: Monthly trends, top products, sales by region, interactive filters
 - **File**: `E-Commerce Dashboard - AC.xlsx`
 
+### 2. **Predicting Restaurant Tips  **
+- **Goal**: Analyzing and predicting restaurant tip amounts using Excel.
+- **Features**: customer gender, smoking status, day of visit, time of meal, group size, total bill amount, and tip amount.
+- **File**: `Restaurant tips dataset - AC.xlsx`
+
 
 ---
 
@@ -23,6 +28,9 @@ This repository contains a collection of Excel dashboards created for data analy
 - Data Cleaning
 - Charts and Graphs (Line, Bar, Pie)
 - Conditional Formatting
+- IF statements
+- PivotTables & Charts
+- Data Analysis Toolpak (Regression)
 
 ---
 
